@@ -1,4 +1,5 @@
-# Nama : MOchammad Irfan Hilmi
-# NIM  : 311910497
-# Kelas: TI.19.A2
-# uts pemrograman mobile
+# UTSTokoBuku
+
+### NAMA    : FAHMI PRAYOGA
+### NIM     : 311910682
+### KELAS   : TI.19.A.2
